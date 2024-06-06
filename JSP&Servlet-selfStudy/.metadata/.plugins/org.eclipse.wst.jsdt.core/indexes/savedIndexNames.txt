@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\androidJM\Desktop\JSP&Servlet-selfStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1000087233.index
+538845004.index
+4260573547.index
+3812843923.index
+3720531064.index
+21218996.index
